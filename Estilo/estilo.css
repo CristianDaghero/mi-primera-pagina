@@ -1,3 +1,36 @@
 h1 {
-    color: blue;
+    color: yellow;
+    background-color: blue;
+    font-size: 70px;
+}
+h2 {
+    background-color: aquamarine;
+}
+h2:hover {
+    color: red;
+} 
+.a1 {
+    color: antiquewhite;
+    background-color: black;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.a2 {
+    color: antiquewhite;
+    background-color: black;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.a3 {
+    color: antiquewhite;
+    background-color: black;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+    background-color: brown;
+}
+p {
+    color: white;
+    font-size: 30px;
 }
